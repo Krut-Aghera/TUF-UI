@@ -6,7 +6,7 @@ A responsive UI clone inspired by the 2025 TakeUForward website, built using **H
 
 ## 🌐 Live Demo
 
-Live:  takeyouforward-ui.netlify.app
+* Live: https://takeyouforward-ui.netlify.app/
 
 ## ⚠️ Disclaimer
 
